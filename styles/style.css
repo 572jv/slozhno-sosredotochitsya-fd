@@ -164,7 +164,7 @@
 }
 
 .content-section__card p:first-of-type {
-  padding-block-end: 20px;
+  padding-block-end: 25px;
 }
 
 .content__description {
@@ -191,18 +191,18 @@
 }
 
 .factors {
-  padding-block-start: 40px;
-  padding-block-end: 40px;
+  padding-block-start: 45px;
+  padding-block-end: 45px;
 }
 
 .advices {
-  padding-block-end: 49px;
+  padding-block-end: 55px;
 }
 
 .content-section__advices {
   display: flex;
   flex-direction: column;
-  gap: 9px;
+  gap: 10px;
 }
 
 .content__subtitle {
