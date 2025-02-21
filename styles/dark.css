@@ -6,24 +6,21 @@
 
 :root.theme-dark {
   --accent-color: #ff0070;
-  --header-bg-img:url(../images/cover-image-dark.png);
+  --header-bg-img: url(../images/cover-image-dark.png);
   --bg-color: #000028;
-  --title-color: #DB00FF;
+  --title-color: #db00ff;
   --text-size: 18px;
   --text-color: #000028;
   --text-normal: 400;
   --text-bold: 700;
-  --main-font: 'IBM Plex mono', sans-serif;
+  --main-font: "IBM Plex mono", sans-serif;
   --btn-color: #ff0070;
-  --description-color: #F1B2CE;
+  --description-color: #f1b2ce;
   --s-padding: 10px;
   --m-padding: 20px;
   --hover-color: rgba(255, 0, 112, 0.4);
-  
 }
 
-:root.theme-dark .decorative__element{
+:root.theme-dark .decorative__element {
   display: flex;
 }
-
-
