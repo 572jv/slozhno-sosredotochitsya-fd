@@ -5,12 +5,25 @@
 */
 
 :root.theme-dark {
-  /* сохраните этот селектор в приведённом виде.
-    Так стили написанные ниже будут иметь больший вес,
-    чем стили в медиазапросе предпочтений пользователя
-  */
+  --accent-color: #ff0070;
+  --header-bg-img:url(../images/cover-image-dark.png);
+  --bg-color: #000028;
+  --title-color: #DB00FF;
+  --text-size: 18px;
+  --text-color: #000028;
+  --text-normal: 400;
+  --text-bold: 700;
+  --main-font: 'IBM Plex mono', sans-serif;
+  --btn-color: #ff0070;
+  --description-color: #F1B2CE;
+  --s-padding: 10px;
+  --m-padding: 20px;
+  --hover-color: rgba(255, 0, 112, 0.4);
+  
 }
 
-.theme-dark .page {
-  /* Вам также нужно будет написать ряд подобных селекторов */
+:root.theme-dark .decorative__element{
+  display: flex;
 }
+
+
