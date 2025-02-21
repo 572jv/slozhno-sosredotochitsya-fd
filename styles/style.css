@@ -164,7 +164,7 @@
 }
 
 .content-section__card p:first-of-type {
-  padding-block-end: 25px;
+  padding-block-end: 30px;
 }
 
 .content__description {
@@ -191,7 +191,7 @@
 }
 
 .factors {
-  padding-block-start: 45px;
+  padding-block-start: 40px;
   padding-block-end: 45px;
 }
 
@@ -244,6 +244,7 @@
   position: relative;
   align-items: center;
   min-block-size: 668px;
+  background-color: var(--bg-color);
 }
 
 @media (width >= 768px) {
