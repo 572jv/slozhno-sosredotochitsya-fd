@@ -42,5 +42,10 @@
     --s-padding: 10px;
     --m-padding: 20px;
     --hover-color: rgba(50, 49, 45, 0.4);
+    
+  }
+
+  .decorative__element {
+    display: none;
   }
 }
